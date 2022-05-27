@@ -39,3 +39,4 @@ az sql db copy --dest-name $targetDatabase --dest-resource-group $targetResource
 # echo "Deleting all resources"
 # az group delete --name $targetResourceGroup -y
 # az group delete --name $resourceGroup -y
+

@@ -43,3 +43,4 @@ az sql db export --admin-password $password --admin-user $login --storage-key $k
 
 # echo "Deleting all resources"
 # az group delete --name $resourceGroup -y
+
